@@ -11,6 +11,8 @@ banks will be able to check balances and withdraw funds only.
 
 *** Users will be identified by the card number used, and this will be authenticated by entering a PIN.Invalid cards will be rejected.
 
+*** At the end of each business day, a report will be produced of all successful and unsuccessful transactions.
+
 
 Non-Functional Requirements:
 
@@ -18,7 +20,5 @@ Non-Functional Requirements:
 *** The ATMs must be available 23 hours a day, 7 days a week. Any downtime must be between 2am and 4am.  
 
 *** 3 incorrect PIN entries will cause the card to be retained.
-
-*** At the end of each business day, a report will be produced of all successful and unsuccessful transactions.
 
 *** The display screen and buttons must comply with Disability Access legislation.
