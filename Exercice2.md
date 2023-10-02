@@ -24,10 +24,6 @@ Non-Functional Requirements:
 
 * Question 2: Use MoSCoW to prioritise the requirements from Warden
 
-M : must have this, c'est-à-dire 'doit être fait' (vital).
-S : should have this if at all possible, c'est-à-dire devrait être fait dans la mesure du possible (essentiel).
-C : could have this if it does not affect anything else, pourrait être fait dans la mesure où cela n'a pas d'impact sur les autres tâches (confort).
-W : won't have this time but would like in the future, ne sera pas fait cette fois mais sera fait plus tard (luxe, c'est votre zone d'optimisation budgétaire).
 
 M: Office staff must be able to print invoices or email them to customers.
    Office staff (only) must be able to revise the details of an order.
