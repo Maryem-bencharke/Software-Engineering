@@ -13,7 +13,11 @@
 **** Sales Analytics: Sellers might also need a use case for viewing sales analytics to monitor their business performance. 
 
 * Relationship analysis:
+
+  
 **** The relationships between actors and use cases seem generally appropriate, but it would be clearer to label the relationships with their associated actions. For example, instead of just "User --> 'Browse Products'," you could label it as "User -> Browse Products" to indicate that the user initiates the action of browsing products.
  
  * Redundancy and irrelevance:
+
+   
  The use case "Monitor Activities" might be too broad and could potentially include various functionalities. It would be better to break it down into more specific use cases, such as "Monitor Sales," "Monitor User Activity," etc., if applicable.
